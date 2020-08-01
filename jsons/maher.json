@@ -6,7 +6,7 @@
 	    
     {
       "fource": false ,
-      "unfource": false ,
+      "unfource": true ,
       "dialog_counter": "50",
       "dialog_title":"قم بتحديث البرنامج",
       
