@@ -21,7 +21,7 @@
    
     
       {
-			"is_active": false ,
+			"is_active": true ,
 			"ad_name": "admob",
 			"app_id": "ca-app-pub-9896546088603370~3531037352",
 			"banner_id":"ca-app-pub-9896546088603370/9570650333",
@@ -29,7 +29,7 @@
 			
 			"admo_counter_server_list": "20",
 			"admo_counter_server_player": "20",
-			"Int_count": "3"
+			"Int_count": "9"
 			
 	
 			
