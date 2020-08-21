@@ -21,7 +21,7 @@
    
     
       {
-			"is_active": true ,
+			"is_active": false ,
 			"ad_name": "admob",
 			"app_id": "ca-app-pub-9896546088603370~3531037352",
 			"banner_id":"ca-app-pub-9896546088603370/9570650333",
